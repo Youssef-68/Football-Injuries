@@ -4,5 +4,3 @@ numpy
 plotly
 xgboost
 scikit-learn
-pillow
-pyarrow
